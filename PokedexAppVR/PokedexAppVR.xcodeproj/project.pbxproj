@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		630056321D3C995B00AD1FC7 /* pokemontheme.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 630056311D3C995B00AD1FC7 /* pokemontheme.mp3 */; };
+		630056341D3D4C5C00AD1FC7 /* PokemonDetailVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 630056331D3D4C5C00AD1FC7 /* PokemonDetailVC.swift */; };
 		638529F71D3C6FA70096B2F9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 638529F61D3C6FA70096B2F9 /* AppDelegate.swift */; };
 		638529F91D3C6FA70096B2F9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 638529F81D3C6FA70096B2F9 /* ViewController.swift */; };
 		638529FC1D3C6FA70096B2F9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 638529FA1D3C6FA70096B2F9 /* Main.storyboard */; };
@@ -22,6 +23,7 @@
 
 /* Begin PBXFileReference section */
 		630056311D3C995B00AD1FC7 /* pokemontheme.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pokemontheme.mp3; sourceTree = "<group>"; };
+		630056331D3D4C5C00AD1FC7 /* PokemonDetailVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PokemonDetailVC.swift; sourceTree = "<group>"; };
 		638529F31D3C6FA70096B2F9 /* PokedexAppVR.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PokedexAppVR.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		638529F61D3C6FA70096B2F9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		638529F81D3C6FA70096B2F9 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -109,6 +111,7 @@
 			isa = PBXGroup;
 			children = (
 				638529F81D3C6FA70096B2F9 /* ViewController.swift */,
+				630056331D3D4C5C00AD1FC7 /* PokemonDetailVC.swift */,
 			);
 			name = Controller;
 			sourceTree = "<group>";
@@ -200,6 +203,7 @@
 				63852A111D3C782E0096B2F9 /* PokeCell.swift in Sources */,
 				638529F91D3C6FA70096B2F9 /* ViewController.swift in Sources */,
 				638529F71D3C6FA70096B2F9 /* AppDelegate.swift in Sources */,
+				630056341D3D4C5C00AD1FC7 /* PokemonDetailVC.swift in Sources */,
 				63852A0C1D3C72230096B2F9 /* Pokemon.swift in Sources */,
 				63852A131D3C8DAD0096B2F9 /* csv.swift in Sources */,
 			);
